@@ -1,0 +1,10 @@
+*.txt
+/.idea
+/_pycache_
+/build
+/dist
+/Function
+calculator.py
+client.py
+test.py
+main.spec
